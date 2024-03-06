@@ -5,6 +5,28 @@
       <entry key="GreetingPreview">
         <State />
       </entry>
+      <entry key="MainActivity">
+        <State />
+      </entry>
+      <entry key="SplashScreen">
+        <State />
+      </entry>
+      <entry key="SplashScreenPreview">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Salih\.android\avd\Pixel_XL_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-05T19:49:12.027099300Z" />
+        </State>
+      </entry>
       <entry key="app">
         <State />
       </entry>
